@@ -21,7 +21,8 @@ Here are some ideas to get you started:
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGBiggieCheese)](https://github.com/OGBiggieCheese/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OGBiggieCheese)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdkMWM3NjZiMTc1Nzc1ZGEzNTUxMDU0NmQ0MjExM2U0Y2JmNTMwMCZjdD1z/IsNANDIdPI2k55dKhN/giphy.gif" height="300"/>
+  <code width="200">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)</code>
 </div>
 <div>
 
