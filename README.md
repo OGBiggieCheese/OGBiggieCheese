@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=OGBiggieCheese+-+Here+to+serve+you+!+;Hi everynyan ! 🐱" alt="Typing SVG" /></a>
+<div id="header" align="">
+  <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=OGBiggieCheese+-+Here+to+serve+you+!+;Hi everynyan ! 🐱" alt="Typing SVG" /></a>
   <br>
   <img src="https://media.tenor.com/DOVbIdf5PrsAAAAi/megumin-konosuba-chibi.gif" width="100"/>
+  </div>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGBiggieCheese)](https://github.com/OGBiggieCheese/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OGBiggieCheese)](https://git.io/streak-stats)
