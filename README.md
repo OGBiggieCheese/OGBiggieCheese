@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=455&lines=OGBiggieCheese+-+Here+to+serve+you+!+;Hi everynyan! - Welcome to my profile" alt="Typing SVG" /></a>
   <br>
-  <img src="https://media.tenor.com/DOVbIdf5PrsAAAAi/megumin-konosuba-chibi.gif" width="100"/>
+  <picture><img src="https://media.tenor.com/DOVbIdf5PrsAAAAi/megumin-konosuba-chibi.gif" width="100"/></picture>
   <br>
   </div>
   
