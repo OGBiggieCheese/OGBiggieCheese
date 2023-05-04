@@ -8,11 +8,11 @@
   
  # Hey, I'm OGBiggieCheese
   
- <p> I'm a student based in Argentina, and I'm passionate about designing. Welcome to my GitHubProfile! </p>
+ <p> I'm a student based in Argentina, and I'm passionate about designing. Welcome to my GitHub profile! </p>
   
  ## What I'm working on
  
- - 🚀 I'm currently working on the vidogame "Kyatsu!" and it's page, which is a MOBA videogame
+ - 🚀 I'm currently working on the vidogame "Kyatsu!",which is a MOBA videogame, and it's page 
  - 📖 I'm currently learning C#
  - 💡 I'm always brainstorming and coming up with new project ideas
  
