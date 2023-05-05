@@ -8,7 +8,7 @@
   
  # Hey, I'm OGBiggieCheese
   
- <p> I'm a student based in Argentina, and I'm passionate about designing. Welcome to my GitHub profile! </p>
+ <p> I'm a student based in Argentina, and I'm passionate about designing. Welcome to my Git-Hub profile! </p>
   
  ## What I'm working on
  
