@@ -14,8 +14,8 @@
  ## What I'm working on
 - 🤖 Creating my own discord bot 
 - 🎮 Developing my own videogame, a rogue-like
-- 🚀 A videogame, "Kyatsu!",which is a MOBA videogame, and it's page.  
-- 📖 Learning C#
+- 🚀 A videogame, "Pepe's Restaurant",which is a gestion and plataform game.  
+- 📖 Learning python
 - 💡 I'm always brainstorming and coming up with new project ideas
  
  ## Stats
