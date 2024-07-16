@@ -9,7 +9,7 @@
  # Hey, I'm OGBiggieCheese
   
  <p> I'm a student based in Argentina, and I'm passionate about designing. Welcome to my Git-Hub profile! </p>
- <p> Currently working at Dasomnya</p>
+ <p> Currently working at Dasomnya (Not a real company)</p>
 
  ## What I'm working on
 - 🤖 Creating my own discord bot 
