@@ -1,22 +1,22 @@
 
 <div id="header" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=455&lines=OGBiggieCheese+-+Here+to+serve+you+!+;Hi everynyan! - Welcome to my profile" alt="Typing SVG" /></a>
-  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=455&lines=OGBigigeCheese+-+Here+to+serve+you+!;Hi+everynyan+!+-+Welcome+to+my+profile" alt="Typing SVG" /></a>
+  <br>  
   <picture><img src="https://media.tenor.com/DOVbIdf5PrsAAAAi/megumin-konosuba-chibi.gif" width="100"/></picture>
   <br>
   </div>
   
  # Hey, I'm OGBiggieCheese
   
- <p> I'm a student based in Argentina, and I'm passionate about designing. Welcome to my Git-Hub profile! </p>
- <p> Currently working at Dasomnya (Not a real company)</p>
+ <p> I'm an software engineer based in Argentina, and I'm passionate about designing. Welcome to my GitHub profile! </p>
+ <p> Currently working at  <b> Bewise </b> </p>
 
  ## What I'm working on
-- 🤖 Creating my own discord bot 
-- 🎮 Developing my own videogame, a rogue-like
-- 🚀 A videogame, "Pepe's Restaurant",which is a gestion and plataform game.  
-- 📖 Learning python
-- 💡 I'm always brainstorming and coming up with new project ideas
+- 🤖 Creating my own discord bot ✔️ 
+- 🎮 Developing my own videogame, a rogue-like 
+- 📖 Learning cybersecurity
+- 📖 Learning C++ / C
+- 💡 I'm always brainstorming and coming up with new project ideas, so stay tuned!
 
  ## Stats
  
